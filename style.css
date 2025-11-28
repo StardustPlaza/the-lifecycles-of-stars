@@ -13,6 +13,11 @@ body {
 	text-align: center;
 }
 
+.content {
+	text-align: center;
+	font-size: 120%;
+}
+
 a {
 	display: block;
 	color: white;
@@ -22,3 +27,15 @@ a {
   font-family: Windsor;
   src: url("Windsor Regular.ttf");
 }
+
+#goback {
+	position: fixed;
+	top: 0px;
+	right: 0px;
+	width: 300px;
+	border: 3px solid white;
+	text-align: center;
+	padding: 5px;
+	width: auto;
+}
+
